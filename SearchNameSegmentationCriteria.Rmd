@@ -1,0 +1,109 @@
+---
+title: "Search Name Segmentation Criteria and New Estimate"
+author: "Office of Marketing and Brand Management"
+date: "2/10/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = TRUE,
+	message = FALSE,
+	warning = FALSE
+)
+```
+
+# Geographic Markets
+
+## Primary Market
+
+**Maine**
+
+* All Counties
+
+## Secondary Markets
+
+**Massachusetts**
+
+* Middlesex County
+
+**New Hampshire**
+
+* Hillsborough County
+
+* Rockingham County
+
+* Strafford County
+
+
+## Tertiary Markets
+
+**Massachusetts**
+
+* All Other Counties
+
+**New Hampshire**
+
+* All Other Counties
+
+**Connecticut**
+
+* All Counties
+
+## Quaternary Markets
+
+**Vermont**
+
+* All Counties
+
+**Rhode Island**
+
+* All Counties
+
+**Outside of New England**
+
+**New York** 
+
+* Westchester
+
+# GPA
+
+## High Achievers
+
+* GPA between 4.00 and 3.70 
+
+* Letter grade between A+ and A-
+
+## General Achievers
+
+* GPA between  3.6 and 2.7
+
+* Letter grade between B+ and B-
+
+## Aspirational Achievers (modify for primary market, all grades C+ and less)
+
+* GPA between 2.6 and 2.3
+
+* Letter grade of C+
+
+
+#  Standardized Test Scores (not for primary market)
+
+* SAT test takers with scores between 800 – 1400
+
+* PSAT test takers with scores between 720 – 1520
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(kableExtra)
+```
+
+# Junior Names Available as of February 10, 2020
+
+
+```{r echo=FALSE}
+data <- read.csv("C:/Users/christine.iyer/Box/Search Name Evaluation/Search Infrmation/Junior_Search_Name_Availability_Feb_10_20.csv", header = T, stringsAsFactors = F)
+data %>% kable() %>% kable_styling()
+```
+
+
