@@ -2,8 +2,10 @@
 
 Summary of Search Name Purchase Recommendations:
 Updated 2/6/20
-Standardized Test Scores
-SAT
+
+
+## Standardized Test Scores
+**SAT**
 ME SAT test takers with scores between 800 – 1400
 MA, NH, CT SAT test takers with scores between 800 – 1200
 
