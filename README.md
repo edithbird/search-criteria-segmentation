@@ -33,23 +33,26 @@ Updated 2/6/20
 **Primary Market:** - All Maine Counties
 
 **Secondary Markets:**
-* Massachusetts
 
-- Middlesex County
+* Massachusetts: Middlesex County
 
-New Hampshire
-Hillsborough County
-Rockingham County
-Strafford County
-Tertiary Markets
-Massachusetts - All Other Counties 
-New Hampshire - All Other Counties
-Connecticut - All Counties (if cuts necessary, cut less populated and/or non-border towns first)
-Quaternary Markets
-Vermont
-Rhode Island
-Outside of New England
-New York - Westchester (borders Fairfield, where we have a lot of events)
+* New Hampshire: Hillsborough, Rockingham,  Strafford Counties
+
+**Tertiary Markets:**
+
+* Massachusetts: All Other Counties 
+
+* New Hampshire - All Other Counties
+
+* Connecticut - All Counties (if cuts necessary, cut less populated and/or non-border towns first)
+
+**Quaternary Markets:**
+
+* Vermont
+
+* Rhode Island
+
+* Outside of New England: New York - Westchester (borders Fairfield, where we have a lot of events)
 
 
 
