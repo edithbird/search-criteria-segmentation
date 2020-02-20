@@ -5,26 +5,38 @@ Updated 2/6/20
 
 
 ## Standardized Test Scores
+
 **SAT**
-ME SAT test takers with scores between 800 – 1400
-MA, NH, CT SAT test takers with scores between 800 – 1200
 
-PSAT
-ME PSAT test takers with scores between 720 – 1520
-MA, NH, CT PSAT test takers with scores between 720 – 1300
+* ME SAT test takers with scores between 800 – 1400
 
-Academic Achievement (letter/score conversions via CB)
-High Achievers (HA): 
-GPA between 4.00 and 3.70 or letter grade between A+ and A-
-General Achievers (GA): 
-GPA between 3.6 and 2.7 or letter grade between B+ and B-
-Aspirational Achievers (AA): 
-GPA between 2.6 and 2.3 or letter grade of C+
+* MA, NH, CT SAT test takers with scores between 800 – 1200
 
-Primary Market - All Maine Counties
-Secondary Markets
-Massachusetts
-Middlesex County
+**PSAT**
+
+* ME PSAT test takers with scores between 720 – 1520
+
+* MA, NH, CT PSAT test takers with scores between 720 – 1300
+
+## Academic Achievement
+
+**Grade Point Averages** (letter/score conversions via CB)
+
+* High Achievers (HA): GPA between 4.00 and 3.70 or letter grade between A+ and A-
+
+* General Achievers (GA):  GPA between 3.6 and 2.7 or letter grade between B+ and B-
+
+* Aspirational Achievers (AA): GPA between 2.6 and 2.3 or letter grade of C+
+
+## Geo-Markets
+
+**Primary Market:** - All Maine Counties
+
+**Secondary Markets:**
+* Massachusetts
+
+- Middlesex County
+
 New Hampshire
 Hillsborough County
 Rockingham County
